@@ -8,7 +8,7 @@ public class Counter : MonoBehaviour
 {
     public Text CounterText;
 
-    private int Count = 0;
+    public int Count = 0;
 
     private void Start()
     {
